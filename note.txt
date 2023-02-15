@@ -1,0 +1,1 @@
+chay npm start va npm run watch va server mongoDB => truy cap vao http://localhost:3000/
